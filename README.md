@@ -1,5 +1,6 @@
 # mp3TagEditor
 A simple program for editing mp3 file tags. Run gui.py to start the graphical user interface.
+This software is made to work on Windows.
 
 This software uses LAME. Visit their website at www.mp3dev.org.
 Licensing and patent information about LAME can be found here: https://lame.sourceforge.io/links.php#Patents, https://lame.sourceforge.io/license.txt
